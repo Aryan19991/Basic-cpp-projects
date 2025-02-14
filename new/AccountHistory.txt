@@ -1,16 +1,3 @@
-Account nummber: 789
-Rs 200has been deposited to your account with account number: 789
-Rs 200has been withdrawn from your account with account number: 789
-Your Balance is Rs. 500
-Account nummber: 456
-Rs 5000has been deposited to your account with account number: 456
-Rs 572has been withdrawn from your account with account number: 456
-Your Balance is Rs. 2.00443e+06
-----------------------------------------------------------------------------------
-Account nummber: 456
-Account nummber: 456
-Account nummber: 789
-Rs 500has been deposited to your account with account number: 789
 Account nummber: 12345
 Rs200 has been deposited to your account with account number: 12345
 Rs 100has been withdrawn from your account with account number: 12345
