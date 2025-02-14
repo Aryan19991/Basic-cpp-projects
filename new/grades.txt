@@ -1,0 +1,7 @@
+Aryan,10,20
+Aryan's Grades:
+Math : 50
+Science : 10
+Social : 20
+English : 30
+Nepali : 40
