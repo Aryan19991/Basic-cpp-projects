@@ -36,7 +36,6 @@ BBS (Banking Management System)
 A basic banking system that includes functionality to deposit, withdraw, and check account history.
 Test Program
 
-A small testing program for experimenting with C++ concepts.
 How to Run
 Requirements
 C++ Compiler (e.g., GCC, Clang, or Visual Studio)
